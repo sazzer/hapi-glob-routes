@@ -1,0 +1,25 @@
+{
+  "name": "hapi-glob-routes",
+  "version": "0.0.1",
+  "description": "Hapi Plugin to automatically add routes based on a filesystem glob.",
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sazzer/hapi-glob-routes.git"
+  },
+  "keywords": [
+    "hapi",
+    "routes",
+    "glob"
+  ],
+  "author": "Graham Cox <graham@grahamcox.co.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sazzer/hapi-glob-routes/issues"
+  },
+  "homepage": "https://github.com/sazzer/hapi-glob-routes#readme",
+  "dependencies": {
+    "require-glob": "^3.1.1"
+  }
+}
